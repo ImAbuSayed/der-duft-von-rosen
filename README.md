@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-duft-von-rosen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Der Duft von Rosen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-duft-von-rosen/) |
+| **Get License** | [Get License For Der Duft von Rosen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-duft-von-rosen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Der Duft von Rosen an dir, Baby, zieht mich tief in den Bann
+> Schwarze Felgen auf dem Asphalt, ich fahr' so schnell ich nur kann
+> City Lights in deinen Augen, wir sind V.I.P. heut Nacht
+> Du bist Gift, das mich heilt, du hast das Feuer entfacht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
