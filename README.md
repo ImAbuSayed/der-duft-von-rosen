@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-duft-von-rosen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Der Duft von Rosen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-duft-von-rosen/) |
+| **Get License** | [Music Rights & Licensing for Der Duft von Rosen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-duft-von-rosen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `20f9e6b17d7c7811ff93197f124783aed8802dae8734144ad47904b8f489742c` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
